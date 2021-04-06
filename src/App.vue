@@ -9,6 +9,11 @@
 </template>
 
 <style>
+
+* {
+	margin:0px;
+	padding: 0px;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -29,4 +34,6 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+
 </style>
